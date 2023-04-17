@@ -1,0 +1,13 @@
+Goals 3/21
+Set up a basic Pygame window. ✔️
+Draw a grid to represent an 8-bit canvas.✔️
+Implement mouse events to draw on the grid.✔️
+Create a color palette.✔️
+Add basic tools like brush, eraser, and color picker.
+
+
+
+
+
+References
+https://www.geeksforgeeks.org/how-to-create-ms-paint-clone-with-python-and-pygame/
